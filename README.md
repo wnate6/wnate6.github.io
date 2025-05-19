@@ -1,7 +1,6 @@
 # wnate6_Porfoilo
 
 Coding projects: 
-
       To do list: https://codehs.com/sandbox/id/to-do-list-1Orq6P
       Payments: https://codehs.com/sandbox/id/payments-xEteZw
       Pokemon Chooser: https://drive.google.com/file/d/1Dml1qPWuK2y7IG8yFeAAjfD6wHo9AcCn/view?usp=sharing
