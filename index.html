@@ -1,61 +1,128 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Welcome to Nathan's GitHub Page</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-        }
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Nathan's Portfolio</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f4f4f4;
+      color: #333;
+    }
 
-        .container {
-            text-align: center;
-            background-color: #ffffff;
-            padding: 30px;
-            border-radius: 10px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        }
+    header {
+      background-color: #222;
+      color: #fff;
+      padding: 2rem 1rem;
+      text-align: center;
+    }
 
-        h1 {
-            color: #333;
-            margin-bottom: 20px;
-        }
+    h1 {
+      margin: 0;
+    }
 
-        p {
-            color: #555;
-            margin-bottom: 30px;
-        }
+    section {
+      padding: 2rem 1rem;
+      max-width: 1000px;
+      margin: auto;
+    }
 
-        button {
-            padding: 12px 24px;
-            font-size: 18px;
-            font-weight: bold;
-            background-color: #007bff;
-            color: #fff;
-            border: none;
-            border-radius: 8px;
-            cursor: pointer;
-            transition: background-color 0.3s ease;
-        }
+    h2 {
+      border-bottom: 2px solid #ddd;
+      padding-bottom: 0.5rem;
+      margin-bottom: 1rem;
+    }
 
-        button:hover {
-            background-color: #0056b3;
-        }
-    </style>
+    .project-buttons {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+    }
+
+    .project-buttons a {
+      background-color: #007bff;
+      color: #fff;
+      text-decoration: none;
+      padding: 0.75rem 1.25rem;
+      border-radius: 5px;
+      transition: background-color 0.3s;
+    }
+
+    .project-buttons a:hover {
+      background-color: #0056b3;
+    }
+
+    @media (max-width: 600px) {
+      .project-buttons {
+        flex-direction: column;
+      }
+    }
+
+    footer {
+      text-align: center;
+      padding: 2rem 1rem;
+      background-color: #222;
+      color: #fff;
+    }
+  </style>
 </head>
 <body>
-    <div class="container">
-        <h1>Welcome to Nathan's Page</h1>
-        <p>Explore my latest project by clicking the button below:</p>
-        <button onclick="window.location.href='https://drive.google.com/file/d/1U7bUgoEVxR6mAcifKcbEWDA9iTJNIVqt/view?usp=sharing';">
-            Go to My Testing App
-        </button>
+
+  <header>
+    <h1>My Portfolio</h1>
+    <p>Explore my projects across various categories</p>
+  </header>
+
+  <section>
+    <h2>Coding Projects</h2>
+    <div class="project-buttons">
+      <a href="https://yourlink1.com" target="_blank">Project 1</a>
+      <a href="https://yourlink2.com" target="_blank">Project 2</a>
+      <a href="https://yourlink3.com" target="_blank">Project 3</a>
+      <a href="https://yourlink4.com" target="_blank">Project 4</a>
+      <a href="https://yourlink5.com" target="_blank">Project 5</a>
+      <a href="https://yourlink6.com" target="_blank">Project 6</a>
     </div>
+  </section>
+
+  <section>
+    <h2>App Creations</h2>
+    <div class="project-buttons">
+      <a href="https://yourapp.com" target="_blank">My App</a>
+    </div>
+  </section>
+
+  <section>
+    <h2>Game Creation</h2>
+    <div class="project-buttons">
+      <a href="https://yourgame.com" target="_blank">My Game</a>
+    </div>
+  </section>
+
+  <section>
+    <h2>Photoshop</h2>
+    <div class="project-buttons">
+      <a href="https://photoshop1.com" target="_blank">Design 1</a>
+      <a href="https://photoshop2.com" target="_blank">Design 2</a>
+      <a href="https://photoshop3.com" target="_blank">Design 3</a>
+      <a href="https://photoshop4.com" target="_blank">Design 4</a>
+      <a href="https://photoshop5.com" target="_blank">Design 5</a>
+    </div>
+  </section>
+
+  <section>
+    <h2>3D Blender Projects</h2>
+    <div class="project-buttons">
+      <a href="https://your3dproject.com" target="_blank">Blender Render</a>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Your Name. All rights reserved.</p>
+  </footer>
+
 </body>
 </html>
+
