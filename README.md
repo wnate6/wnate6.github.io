@@ -1,5 +1,5 @@
 # wnate6_Porfoilo
-/*
+
 Coding projects: 
       To do list: https://codehs.com/sandbox/id/to-do-list-1Orq6P
       Payments: https://codehs.com/sandbox/id/payments-xEteZw
@@ -9,4 +9,4 @@ App creations:
     
 Game creations: 
     Zombie Blaster: https://drive.google.com/drive/folders/17xuoVkP75D6CR6AeEpzB1hoelO9KLhz6?usp=sharing
-*/
+
