@@ -14,3 +14,13 @@ App creations:
 Game creations: 
     Zombie Blaster: https://drive.google.com/drive/folders/17xuoVkP75D6CR6AeEpzB1hoelO9KLhz6?usp=sharing
 
+Photoshop: 
+      Veggie Face: https://drive.google.com/file/d/1ZEn3Y6yoi23LjFMHd6bag1wPKp3eKXdp/view?usp=sharing
+      Glowing Giants: https://drive.google.com/file/d/1UzBJpImMafljMRrDdwPPy_qx_cCCiQb3/view?usp=sharing
+      Apple Splash: https://drive.google.com/file/d/13w9hhlQIDtwTAhBL2fvElNv78vaWErMb/view?usp=sharing
+      About Me: https://drive.google.com/file/d/15i-Z9F1iTao9f40S-bnmxYiD51rfibFB/view?usp=sharing
+      Greeting Card: https://drive.google.com/file/d/10PTXhB-763ERO6OoibnJ4mH9mpMQC4Gs/view?usp=sharing
+
+3d Blender Projects: 
+      Alien Visit: https://drive.google.com/file/d/1U7bUgoEVxR6mAcifKcbEWDA9iTJNIVqt/view?usp=sharing
+      
